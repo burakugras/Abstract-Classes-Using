@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\bin\Debug\AbstractClassDay13.exe.config
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\bin\Debug\AbstractClassDay13.exe
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\bin\Debug\AbstractClassDay13.pdb
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\obj\Debug\AbstractClassDay13.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\obj\Debug\AbstractClassDay13.exe
+C:\Users\PC\source\repos\AbstractClassDay13\AbstractClassDay13\obj\Debug\AbstractClassDay13.pdb
